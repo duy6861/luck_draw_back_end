@@ -11,7 +11,7 @@ function isStandaloneWord(text, word) {
 const customRules = [
   {
     words: ['nhung'],
-    message: 'Lì xì to cho em gái cưng! Năm mới xinh đẹp, giàu có nhé!'
+    message: 'Lì xì to cho em bé Iu của anh hihi! Năm mới xinh đẹp, giàu có nhé!'
   },
   {
     words: ['hung', 'hùng'],
